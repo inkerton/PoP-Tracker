@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ffe14d;
+  background-image: radial-gradient(#00000026 2px, transparent 2.5px);
+  background-size: 14px 14px; /* Ben-Day dots */
+  color: #000;
+}
